@@ -1,0 +1,48 @@
+span{
+    color: #00ABAE;
+}
+div.vocation{
+    opacity: 0.5;
+}
+div.skills{
+    font-size: 22;
+    color: #00ABAE;
+}
+nav.navbar{
+    font-weight: bold;
+}
+a{
+   color: black; 
+   text-decoration: none;
+   font-weight: bolder;
+}
+#p{
+    color: #00ABAE;
+}
+.pro1{
+    text-align: center;
+}
+.pro{
+    margin: 0 auto;
+}
+#about{
+    text-align: center;
+}
+
+#about > img{
+   
+    width: 120px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    
+}
+.nav-item{
+    position: relative;
+}
+.nav-link font-black{
+position: absolute;
+right: 0;
+}
+
+
+
